@@ -1,2 +1,10 @@
-# Portfolio2025
-Simple summary of my projects
+# Portfolio 2025 - SUNGHYUN KIM
+
+데이터 자동화 & 테스트 리포트 자동화 프로젝트 중심의 포트폴리오입니다.
+각 프로젝트의 개요, 기술 스택, 결과물 요약을 포함하고 있습니다.
+
+---
+
+## 주요 프로젝트 
+
+### 1. HMC 
