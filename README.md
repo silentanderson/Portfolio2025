@@ -5,7 +5,7 @@
 
 ---
 
-## 주요 프로젝트 
+## 주요 프로젝트 - 한국에이브이엘
 
 ### 1. Heavy Industry Engine Automated Data Processing App
 - 기간 : 2021.06 ~ 2021.09
