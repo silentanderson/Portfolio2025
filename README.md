@@ -58,6 +58,7 @@
 ## 주요 프로젝트 - 광주과학기술원(GIST)
 
 석사과정 및 연구원 기간동안 기업과 수행했던 산학프로젝트를 간단히 정리해놓습니다.
+[포트폴리오 파일 보기 (Portfolio_GIST.pdf)](https://github.com/silentanderson/Portfolio2025/blob/main/02_GIST/Portfolio_GIST.pdf)
 
 ### 1. 차량용 햅틱 디스플레이 개발 및 평가 - 1차년도
 - 기간 : 2016.02 ~ 2016.11
