@@ -9,31 +9,31 @@
 - 기간 : 2021.06 ~ 2021.09
 - 기술 : VisualBasic, Python 3.9, MS Excel Integration
 - 설명 : 연소해석기(TestBed), ECS, CAS 등의 오토메이션 측정 장비를 이용한 대상시험에서 계측된 이종간의 Raw 데이터에 대한 데이터 전처리 통합 -> 채널 매핑 -> 데이터 후처리 -> 데이터 시각화 -> MS 툴 리포팅 등의 데이터 분석후처리 자동화
-- [상세보기] : (https://github.com/silentanderson/Portfolio2025/blob/main/00_AVLKorea/01_중장비엔진데이터후처리자동화앱개발/)
+- [상세보기] : (https://github.com/silentanderson/Portfolio2025/blob/main/00_AVLKorea/01_중장비엔진데이터후처리자동화앱개발/README.md)
 
 ### 2. 엔진 EMS 제어기 Calibration 검증 툴 개발 
 - 기간 : 2021.11 ~ 2022.12
 - 기술 : VisualBasic, Python 3.9, MS Excel Integration  
 - 설명 : 차량 실도로 주행 테스트를 진행하면서 EMS(Engine Management System) Calibration 품질을 검증확인할 수 있는 자동 데이터 후처리 SW 유지보수 전담
-- [상세보기] : (https://github.com/silentanderson/Portfolio2025/blob/main/00_AVLKorea/02_엔진EMS제어기Calibration검증툴개발/)
+- [상세보기] : (https://github.com/silentanderson/Portfolio2025/blob/main/00_AVLKorea/02_엔진EMS제어기Calibration검증툴개발/README.md)
 
 ### 3. 배터리 셀 성능 데이터 오토 리포팅 어플리케이션 개발 
 - 기간 : 2023.06 ~ 2024.05
 - 기술 : VisualBasic, Python 3.9
 - 설명 : 셀단위의 배터리 성능을 평가/분석하기 위해 웹기반 데이터 플랫폼에 데이터베이스에 접근하여 용량분석, 전력성능, 충방전 효율, SOC-OCV 선도 등의 성능 지표를 자동분석해주는 툴 개발
-- [상세보기] : (https://github.com/silentanderson/Portfolio2025/blob/main/00_AVLKorea/03_배터리셀성능데이터오토리포팅어플리케이션개발/)
+- [상세보기] : (https://github.com/silentanderson/Portfolio2025/blob/main/00_AVLKorea/03_배터리셀성능데이터오토리포팅어플리케이션개발/README.md)
 
 ### 4. 선박 중형엔진 데이터분석 템플릿 개발 
 - 기간 : 2024.01 ~ 2024.12
 - 기술 : VisualBasic, Python 3.9, Oracle SQL
 - 설명 : 중형선박 엔진 개발시 대상시험에서 취득되는 제어기 데이터 및 연소해석 데이터를 Load 조건별 효율적 데이터분석을 위한 오토리포팅 템플릿 개발
-- [상세보기] : (https://github.com/silentanderson/Portfolio2025/blob/main/00_AVLKorea/04_선박중형엔진데이터분석템플릿개발/)
+- [상세보기] : (https://github.com/silentanderson/Portfolio2025/blob/main/00_AVLKorea/04_선박중형엔진데이터분석템플릿개발/README.md)
 
 ### 5. 차량 엔진 테스트베드 오토리포팅 앱 개발
 - 기간 : 2024.11 ~ 2025.06
 - 기술 : VisualBasic, Python 3.9
 - 설명 : 엔진 다이노 테스트베드에서 계측되는 엔진 동작시의 주요 파라미터의 로그 데이터를 사용자가 핸들링, 구간별 분석, 계측 시각화, 자동 레포팅 하는 후처리 분석기 툴 개발
-- [상세보기] : (https://github.com/silentanderson/Portfolio2025/blob/main/00_AVLKorea/05_차량엔진테스트베드오토리포팅앱개발/)
+- [상세보기] : (https://github.com/silentanderson/Portfolio2025/blob/main/00_AVLKorea/05_차량엔진테스트베드오토리포팅앱개발/README.md)
 
 ## 주요 프로젝트 - INNOSIMULATION
 
