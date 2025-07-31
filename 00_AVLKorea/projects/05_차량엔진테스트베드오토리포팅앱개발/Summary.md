@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# AVL_2025_HMC_EngineTestbedAutoReporting
-This is the project I have done with HMC E-Motor Team in the part of Data Management Project
+
 =======
 Important Notice
 This project was develped as part of a contract-based collaboration between HMC and AVL Korea.
@@ -59,14 +57,3 @@ Key Features:
 5. 계측 메타데이터 표 시각화, 토크-RPM 라인선도, 토크-RPM 막대선도, 토크-RPM 에 따른 BSFC(효율) 컨투어맵 선도 등 시각화
 6. 자동 이미지 저장 및 레포팅 
 
-# 프로젝트 구조
-HMC_E_Motor/
-├── README.md
-├── PythonSrc/
-│   ├── requirements.txt
-│   └── [Python 소스 파일들]
-├── Python/
-│   └── ComputerScienceStudy/
-│       └── engine_analysis_system.py
-└── [기타 프로젝트 파일들]
->>>>>>> 4385b7b (First Update all the things)
